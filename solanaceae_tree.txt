@@ -1,0 +1,1 @@
+(protata:0.138884,((ipomea:0.125673,cuscuta:0.232113)N2:0.083917,(Petunia_hybrid_v1.0_protein:0.118084,(nicotiana:0.0651895,((slyco:0.0302713,stuberosum:0.0230954)N6:0.043189,capsicum:0.0776394)N5:0.0319087)N4:0.0228946)N3:0.0967788)N1:0.138884)N0;
