@@ -1,0 +1,41 @@
+Tree	Node_label	Phylostrata	Species	De_novo_genes	De_novo_events	Branch_length	Normalized_events_length	MYA	Normalized_events_MYA	WGD_node_condition	WGD_node_condition_2			
+Salicaceae	N7	PS1	salix	313	138	0.0222674	6.197400684	11.14	12.38779174	Other nodes	Other nodes			
+Salicaceae	N6	PS2	idesia	466	212	0.0125217	16.93060846	2.81	75.44483986	Other nodes	WGD Lagged node			
+Salicaceae	N4	PS3	itoa	332	125	0.0168928	7.399602197	8.2	15.24390244	WGD node	Other nodes			
+Salicaceae	N2	PS4	scolopia_group	1877	671	0.0500351	13.41058577	42.75	15.69590643	Other nodes	Other nodes			
+Salicaceae	N5	PS5	scolopia	232	128	0.0214793	5.959225859	17.21	7.437536316	Other nodes	WGD Lagged node			
+Salicaceae	N3	PS6	dovyalis	222	93	0.0186205	4.994495314	15.64	5.94629156	WGD node	Other nodes			
+Salicaceae	N2	PS7	populus_group	1487	873	0.0500351	17.44775168	42.03	20.77087794	Other nodes	Other nodes			
+Solanaceae	N6	PS1	stuberosum	1489	356	0.043189	8.242839612	12.56	28.34394904	Other nodes	Other nodes			
+Solanaceae	N5	PS2	capsicum	1507	320	0.0319087	10.02861289	7.78	41.1311054	Other nodes	Other nodes			
+Solanaceae	N4	PS3	nicotiana	1380	483	0.0228946	21.09667782	2.66	181.5789474	Other nodes	WGD Lagged node			
+Solanaceae	N3	PS4	Petunia_hybrid_v1.0_protein	2358	1060	0.0967788	10.95281198	30	35.33333333	WGD node	Other nodes			
+Brassicaceae	N10	PS1	Salba	303	97	0.0131742	7.362875924	0.65	149.2307692	Other nodes	WGD Lagged node			
+Brassicaceae	N9	PS2	Evesicaria	2095	824	0.0308916	26.67391783	4.9	168.1632653	WGD node	Other nodes			
+Brassicaceae	N7	PS3	Itinctoria_475_v1.1.protein_group	2461	957	0.0260408	36.75002304	4.22	226.7772512	Other nodes	WGD Lagged node			
+Brassicaceae	N6	PS4	arabidopsis	3425	1483	0.0983299	15.08188252	13	114.0769231	WGD node	Other nodes			
+Brassicaceae	N5	PS5	cleome	3875	1430	0.12465	11.47212194	42	34.04761905	WGD node	Other nodes			
+Brassicaceae	N3	PS6	moringa_group	893	306	0.0280811	10.89700902	5.31	57.62711864	Other nodes	Other nodes			
+Brassicaceae	N2	PS7	citrussinensis	1027	306	0.0250036	12.23823769	1.74	175.862069	Other nodes	Other nodes			
+Fabaceae	N12	PS1	glycinesoja	4567	2961	0.05945	49.80656013	22.74	130.2110818	WGD node	Other nodes			
+Fabaceae	N11	PS2	vignaunguiculata_group	396	207	0.0152657	13.55981056	1.16	178.4482759	Other nodes	Other nodes			
+Fabaceae	N10	PS3	Cajanuscajan	977	379	0.0458034	8.274494906	16.76	22.61336516	Other nodes	Other nodes			
+Fabaceae	N9	PS4	Medicagotruncatula	679	190	0.02263	8.3959346	3.95	48.10126582	Other nodes	WGD Lagged node			
+Fabaceae	N8	PS5	Arachishypogaea	871	296	0.0346469	8.543332881	11.38	26.01054482	WGD node	Other nodes			
+Fabaceae	N6	PS6	acacia_group	1901	597	0.0587154	10.16769025	1.1	542.7272727	Other nodes	Other nodes			
+Fabaceae	N5	PS7	Prunuspersica	1097	251	0.0240571	10.43351027	0.58	432.7586207	Other nodes	WGD Lagged node			
+Fabaceae	N4	PS8	Vitisvinifera	739	204	0.0162124	12.58296119	2	102	WGD node	Other nodes			
+Fabaceae	N2	PS9	slyco_group	3070	768	0.0353015	21.75544949	7.51	102.26	Other nodes	Other nodes			
+Poaceae	N11	PS1	triticum	1370	717	0.0217067	33.03127606	1.69	424.260355	Other nodes	WGD Lagged node			
+Poaceae	N9	PS2	sorghum	4690	2211	0.141554	15.6194809	48.32	45.75745033	WGD node	Other nodes			
+Poaceae	N8	PS3	carex_group	640	239	0.0277927	8.599380413	7.22	33.10249307	Other nodes	WGD Lagged node			
+Poaceae	N7	PS4	ananas	404	157	0.0265081	5.922717962	10.96	14.32481752	WGD node	Other nodes			
+Poaceae	N5	PS5	musa_group	596	208	0.0213365	9.748552949	3.61	57.61772853	Other nodes	WGD Lagged node			
+Poaceae	N4	PS6	asparagus	750	229	0.0308723	7.417652718	12.67	18.074191	WGD node	Other nodes			
+Fungi	N12	PS1	adapteds_par	19	11	0.0195129	0.563729635	6.94	1.585014409	Other nodes	Other nodes			
+Fungi	N11	PS2	adapteds_mik	28	20	0.0147165	1.359018788	2.2	9.090909091	Other nodes	Other nodes			
+Fungi	N10	PS3	adapteds_kud	317	200	0.198348	1.008328796	75.42	2.651816494	Other nodes	Other nodes			
+Fungi	N8	PS4	adaptedc_glabrata	43	23	0.0210143	1.094492798	1.1	20.90909091	Other nodes	Other nodes			
+Fungi	N6	PS5	adaptedk_naga	107	55	0.0197524	2.78447176	5.12	10.7421875	Other nodes	WGD Lagged node			
+Fungi	N5	PS6	adaptedt_pha_group	24	14	0.0215866	0.64855049	12.73	1.099764336	WGD node	Other nodes			
+Fungi	N3	PS7	adaptedz_rou_group	92	47	0.0673181	0.698177756	23.96	1.961602671	Other nodes	Other nodes			
